@@ -1,3 +1,5 @@
+ShoppingCart is an online shopping application that helps its users to purchase mobiles and tablet devices. This application allows users to log in for purchasing mobiles and tablet devices. Users can search for a product, sort the products list based on rating or price. Users can select the products and add them to the cart. Once the selection is done, users can go to the cart page for payment. User can also change the quantity of the products selected for purchase. After Checkout for closing the purchase, user can logout for the application.
+
 # shoppingCart
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
@@ -25,3 +27,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
